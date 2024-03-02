@@ -6,10 +6,10 @@ This script requires Node.js and npm (or yarn) to be installed on your system. Y
 
 After cloning , run :
 ```
-npm  run i
+npm run install
 ```
 
 ## Usage:
 ```
-npm  run start
+npm run start
 ```
